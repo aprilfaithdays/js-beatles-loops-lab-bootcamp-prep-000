@@ -12,6 +12,7 @@ function theBeatlesPlay( musicians, instruments) {
   
 }
 
+
 function johnLennonFacts(facts) {
   
   let n = 0;
@@ -22,4 +23,13 @@ function johnLennonFacts(facts) {
   }
   
  return newFacts;
+}
+
+
+function iLoveTheBeatles(num) {
+  
+  var arryWithString = [];
+  
+  
+  
 }
