@@ -31,7 +31,12 @@ function iLoveTheBeatles(num) {
   var arrayWithString = [];
   
   do {
-    arra
-  }
+    
+    arrayWithString.push("I love the Beatles!");
+  
+    
+  } while (num < 15);
+  
+  return arrayWithString;
   
 }
