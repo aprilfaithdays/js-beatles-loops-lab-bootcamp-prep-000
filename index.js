@@ -28,8 +28,10 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(num) {
   
-  var arryWithString = [];
+  var arrayWithString = [];
   
-  
+  do {
+    arra
+  }
   
 }
